@@ -1,0 +1,6 @@
+n_1 = input('Enter your first number: ')
+n_2 = input('Enter your second number: ')
+# n1 = int(n_1)
+# n2 = int(n_2)
+# print(n1/n2)
+print(int(n_1)%int(n_2))
